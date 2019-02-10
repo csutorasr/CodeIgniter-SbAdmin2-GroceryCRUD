@@ -1,0 +1,20 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+$lang['error_title'] = "Error";
+$lang['sb2admin_menu_users'] = "Users";
+$lang['sb2admin_nav_notifications_center'] = "Notifications Center";
+$lang['sb2admin_nav_no_notifications'] = "No Notifications.";
+$lang['sb2admin_nav_show_all_notifications'] = "Show All Notifications";
+$lang['sb2admin_nav_logout'] = "Logout";
+$lang['sb2admin_login_title'] = "Login";
+$lang['sb2admin_login_login_error'] = "Login Error";
+$lang['sb2admin_login_invalid'] = "Invalid Username, Email Address, or Password.";
+$lang['sb2admin_login_case_sensitive'] = "Username, email address and password are all case sensitive.";
+$lang['sb2admin_login_logout_successful'] = "You have successfully logged out.";
+$lang['sb2admin_login_welcome'] = "Welcome Back!";
+$lang['sb2admin_login_email_placeholder'] = "Enter Email Address...";
+$lang['sb2admin_login_password_placeholder'] = "Password";
+$lang['sb2admin_login_remember_me'] = "Remember Me";
+$lang['sb2admin_login_login_button'] = "Login";
+$lang['sb2admin_login_excessive_before'] = "Excessive Login Attempts<br />You have exceeded the maximum number of failed login<br />attempts that this website will allow.<br />Your access to login and account recovery has been blocked for";
+$lang['sb2admin_login_excessive_after'] = "minutes.";

@@ -1,0 +1,20 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+$lang['error_title'] = "Hiba";
+$lang['sb2admin_menu_users'] = "Felhasználók";
+$lang['sb2admin_nav_notifications_center'] = "Értesítések";
+$lang['sb2admin_nav_no_notifications'] = "Nincsenek értesítések.";
+$lang['sb2admin_nav_show_all_notifications'] = "Mustasd az összeset";
+$lang['sb2admin_nav_logout'] = "Kijelentkezés";
+$lang['sb2admin_login_title'] = "Bejelentkezés";
+$lang['sb2admin_login_login_error'] = "Sikertelen bejelentkezés";
+$lang['sb2admin_login_invalid'] = "hibás e-mail cím, felhasználónév vagy jelszó";
+$lang['sb2admin_login_case_sensitive'] = "Kérem ellenőrizze, hogy a CAPS LOCK nincs bekapcsolva.";
+$lang['sb2admin_login_logout_successful'] = "Sikeresen kijelentkezett.";
+$lang['sb2admin_login_welcome'] = "Üdvözlöm!";
+$lang['sb2admin_login_email_placeholder'] = "E-mail vagy felhasználónév";
+$lang['sb2admin_login_password_placeholder'] = "Jelszó";
+$lang['sb2admin_login_remember_me'] = "Emlékezz rám";
+$lang['sb2admin_login_login_button'] = "Belépés";
+$lang['sb2admin_login_excessive_before'] = "Túl sok belépési kísérlet<br />Túllépte a sikertelen bejelentkezések számát, amit az oldalon engedélyezett.<br />A belépéshez való jogát";
+$lang['sb2admin_login_excessive_after'] = "percre megvontuk.";
